@@ -20,6 +20,9 @@ Thus, a dual of a boolean statement is obtained by replacing the statement’s s
 
 ![[Screenshot 2024-10-15 at 9.18.01 PM.png]]
 
+![[Screenshot 2024-10-15 at 10.54.25 PM.png]]
+
+
 _These theorems can easily be proved using truth tables_
 ![[Screenshot 2024-10-15 at 9.18.32 PM.png]]
 
