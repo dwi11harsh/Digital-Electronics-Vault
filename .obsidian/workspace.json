@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boolean Algebra & Logic Gates/Boolean Functions.md",
+                "file": "Boolean Algebra & Logic Gates/Basic Theorems an Properties of Boolean Algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boolean Algebra & Logic Gates/Boolean Functions.md",
+                "file": "Boolean Algebra & Logic Gates/Basic Theorems an Properties of Boolean Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boolean Algebra & Logic Gates/Boolean Functions.md",
+                "file": "Boolean Algebra & Logic Gates/Basic Theorems an Properties of Boolean Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boolean Algebra & Logic Gates/Boolean Functions.md"
+                "file": "Boolean Algebra & Logic Gates/Basic Theorems an Properties of Boolean Algebra.md"
               }
             }
           },
@@ -173,10 +172,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06c5ea308d450735",
+  "active": "c95d67968c5ab094",
   "lastOpenFiles": [
-    "Boolean Algebra & Logic Gates/Basic Theorems an Properties of Boolean Algebra.md",
     "Boolean Algebra & Logic Gates/Boolean Functions.md",
+    "Boolean Algebra & Logic Gates/Basic Theorems an Properties of Boolean Algebra.md",
     "Screenshot 2024-10-15 at 9.34.43 PM.png",
     "Boolean Algebra & Logic Gates/Basic Definition.md",
     "Screenshot 2024-10-15 at 9.18.32 PM.png",
