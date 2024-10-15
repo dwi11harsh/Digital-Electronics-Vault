@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "c1b8148784ce843a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e393410584635ba6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "475850cd9e4949e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boolean Algebra & Logic Gates/Basic Theorems an Properties of Boolean Algebra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96d0a510f8c81a92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boolean Algebra & Logic Gates/Boolean Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72c92d7b8c87e1c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "785daa69dfca2665",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c95d67968c5ab094",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "9c5a7c1c19fa940c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06c5ea308d450735",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5
+  },
+  "right": {
+    "id": "c2ed8b3fce56f4d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4559cd89e9f54f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2634ace5e8a75943",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Boolean Algebra & Logic Gates/Basic Theorems an Properties of Boolean Algebra.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ee6076ff1635ecc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Boolean Algebra & Logic Gates/Basic Theorems an Properties of Boolean Algebra.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2cef7ecac3f4fe7b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "64b717effa327c9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Boolean Algebra & Logic Gates/Basic Theorems an Properties of Boolean Algebra.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "c95d67968c5ab094",
+  "lastOpenFiles": [
+    "Boolean Algebra & Logic Gates/Basic Theorems an Properties of Boolean Algebra.md",
+    "Boolean Algebra & Logic Gates/Boolean Functions.md",
+    "Screenshot 2024-10-15 at 9.34.43 PM.png",
+    "Boolean Algebra & Logic Gates/Basic Definition.md",
+    "Screenshot 2024-10-15 at 9.18.32 PM.png",
+    "Screenshot 2024-10-15 at 9.18.01 PM.png",
+    "Screenshot 2024-10-15 at 9.17.50 PM.png",
+    "Screenshot 2024-10-15 at 9.17.05 PM.png",
+    "Screenshot 2024-10-15 at 9.16.41 PM.png",
+    "Screenshot 2024-10-15 at 9.16.28 PM.png",
+    "Screenshot 2024-10-15 at 9.15.59 PM.png",
+    "Screenshot 2024-10-15 at 9.15.34 PM.png",
+    "Screenshot 2024-10-15 at 9.12.49 PM.png",
+    "Boolean Algebra & Logic Gates/Two-Valued Boolean Algebra.md",
+    "Boolean Algebra & Logic Gates/Axiomatic Definition of Boolean Algebra.md",
+    "Digital Logic, Morris Mano.pdf",
+    "Boolean Algebra & Logic Gates",
+    "Welcome.md"
+  ]
+}
