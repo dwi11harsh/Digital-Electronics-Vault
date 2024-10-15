@@ -78,11 +78,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "c2ed8b3fce56f4d1",
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boolean Algebra & Logic Gates/Basic Theorems an Properties of Boolean Algebra.md",
+                "file": "Boolean Algebra & Logic Gates/Boolean Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boolean Algebra & Logic Gates/Basic Theorems an Properties of Boolean Algebra.md",
+                "file": "Boolean Algebra & Logic Gates/Boolean Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,15 +140,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boolean Algebra & Logic Gates/Basic Theorems an Properties of Boolean Algebra.md"
+                "file": "Boolean Algebra & Logic Gates/Boolean Functions.md"
               }
+            }
+          },
+          {
+            "id": "b2e218b82214ebf5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 236.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -159,10 +169,11 @@
       "command-palette:Open command palette": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c95d67968c5ab094",
+  "active": "06c5ea308d450735",
   "lastOpenFiles": [
     "Boolean Algebra & Logic Gates/Basic Theorems an Properties of Boolean Algebra.md",
     "Boolean Algebra & Logic Gates/Boolean Functions.md",
