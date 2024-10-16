@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5658089b07bc41f",
+            "id": "f38c611eb4be2fd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,10 +159,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5658089b07bc41f",
+  "active": "f38c611eb4be2fd9",
   "lastOpenFiles": [
+    "Screenshot 2024-10-16 at 6.44.03 PM.png",
+    "Screenshot 2024-10-16 at 6.43.14 PM.png",
     "Simplification of Boolean Functions/7. Determination of Prime-implicants.md",
     "Simplification of Boolean Functions/8. Various Implicants in K-map.md",
+    "Screenshot 2024-10-16 at 6.39.33 PM.png",
     "Simplification of Boolean Functions/6. The Tabulation Method.md",
     "Simplification of Boolean Functions/6. Don't-care Condition.md",
     "Boolean Algebra & Logic Gates/8. Digital Logic Gates.md",
@@ -181,11 +184,9 @@
     "Simplification of Boolean Functions/2. Two- & Three-variable Maps.md",
     "Screenshot 2024-10-16 at 3.05.10 PM.png",
     "Screenshot 2024-10-16 at 3.02.25 PM.png",
-    "Screenshot 2024-10-16 at 3.01.47 PM.png",
     "Simplification of Boolean Functions/1. The Map Method.md",
     "Boolean Algebra & Logic Gates/1. Basic Definition.md",
     "1. Basic Definition.pdf",
-    "Screenshot 2024-10-15 at 8.54.35 PM.png",
     "Simplification of Boolean Functions",
     "Boolean Algebra & Logic Gates/5. Boolean Functions.md",
     "Boolean Algebra & Logic Gates/4. Basic Theorems an Properties of Boolean Algebra.md",
