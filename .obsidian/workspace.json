@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c5658089b07bc41f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simplification of Boolean Functions/6. Don't-care Condition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simplification of Boolean Functions/5. NAND & NOR Implementation.md",
+                "file": "Simplification of Boolean Functions/6. Don't-care Condition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simplification of Boolean Functions/5. NAND & NOR Implementation.md",
+                "file": "Simplification of Boolean Functions/6. Don't-care Condition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simplification of Boolean Functions/5. NAND & NOR Implementation.md"
+                "file": "Simplification of Boolean Functions/6. Don't-care Condition.md"
               }
             }
           },
@@ -159,12 +172,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2b1066f190f3b2f",
+  "active": "c5658089b07bc41f",
   "lastOpenFiles": [
+    "Boolean Algebra & Logic Gates/8. Digital Logic Gates.md",
+    "Simplification of Boolean Functions/6. Don't-care Condition.md",
+    "6. Don't-care Condition.md",
+    "Boolean Algebra & Logic Gates/7. Other Logic Operations.md",
+    "Boolean Algebra & Logic Gates/6. Canonical and Standard Forms.md",
+    "Simplification of Boolean Functions/5. NAND & NOR Implementation.md",
+    "Screenshot 2024-10-16 at 4.04.58 PM.png",
     "Screenshot 2024-10-16 at 3.54.23 PM.png",
     "Screenshot 2024-10-16 at 3.52.13 PM.png",
     "Simplification of Boolean Functions/4. Product of Sums Simplification.md",
-    "Simplification of Boolean Functions/5. NAND & NOR Implementation.md",
     "Screenshot 2024-10-16 at 3.41.48 PM.png",
     "Screenshot 2024-10-16 at 3.41.20 PM.png",
     "Simplification of Boolean Functions/3. Four-variable Map.md",
@@ -174,16 +193,11 @@
     "Screenshot 2024-10-16 at 3.02.25 PM.png",
     "Screenshot 2024-10-16 at 3.01.47 PM.png",
     "Simplification of Boolean Functions/1. The Map Method.md",
-    "Boolean Algebra & Logic Gates/7. Digital Logic Gates.md",
     "Boolean Algebra & Logic Gates/1. Basic Definition.md",
     "1. Basic Definition.pdf",
     "Screenshot 2024-10-15 at 8.54.35 PM.png",
     "Simplification of Boolean Functions",
-    "Screenshot 2024-10-16 at 11.44.35 AM.png",
-    "Screenshot 2024-10-16 at 11.42.22 AM.png",
-    "Boolean Algebra & Logic Gates/6. Other Logic Operations.md",
     "Boolean Algebra & Logic Gates/5. Boolean Functions.md",
-    "6. Canonical and Standard Forms.md",
     "Boolean Algebra & Logic Gates/4. Basic Theorems an Properties of Boolean Algebra.md",
     "Boolean Algebra & Logic Gates/3. Two-Valued Boolean Algebra.md",
     "Boolean Algebra & Logic Gates/2. Axiomatic Definition of Boolean Algebra.md",
