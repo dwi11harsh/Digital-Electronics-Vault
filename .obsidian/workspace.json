@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b49ee15ee876d1d6",
+        "id": "858da1a7e5d227fc",
         "type": "tabs",
         "children": [
           {
-            "id": "08edcf5eadff1947",
+            "id": "97e2ee02eb917fe6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -151,7 +151,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08edcf5eadff1947",
+  "active": "97e2ee02eb917fe6",
   "lastOpenFiles": [
     "Boolean Algebra & Logic Gates/1. Basic Definition.md",
     "1. Basic Definition.pdf",
