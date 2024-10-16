@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Canonical and Standard Forms.md",
+                "file": "Boolean Algebra & Logic Gates/5. Boolean Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e539ed223591fbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Other Logic Operations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 242.5,
+    "collapsed": true
   },
   "right": {
     "id": "c2ed8b3fce56f4d1",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Canonical and Standard Forms.md",
+                "file": "6. Other Logic Operations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Canonical and Standard Forms.md",
+                "file": "6. Other Logic Operations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Canonical and Standard Forms.md"
+                "file": "6. Other Logic Operations.md"
               }
             }
           },
@@ -158,16 +172,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4999207e1380bc62",
+  "active": "7e539ed223591fbe",
   "lastOpenFiles": [
+    "Screenshot 2024-10-16 at 10.40.17 AM.png",
+    "Boolean Algebra & Logic Gates/5. Boolean Functions.md",
+    "6. Other Logic Operations.md",
+    "6. Canonical and Standard Forms.md",
     "Screenshot 2024-10-15 at 11.31.07 PM.png",
     "Screenshot 2024-10-15 at 11.27.47 PM.png",
     "Screenshot 2024-10-15 at 11.27.27 PM.png",
     "Screenshot 2024-10-15 at 11.16.31 PM.png",
     "Screenshot 2024-10-15 at 11.13.57 PM.png",
     "Screenshot 2024-10-15 at 11.12.04 PM.png",
-    "Boolean Algebra & Logic Gates/5. Boolean Functions.md",
-    "6. Canonical and Standard Forms.md",
     "Boolean Algebra & Logic Gates/4. Basic Theorems an Properties of Boolean Algebra.md",
     "Screenshot 2024-10-15 at 11.05.55 PM.png",
     "Screenshot 2024-10-15 at 10.59.40 PM.png",
@@ -176,7 +192,6 @@
     "Boolean Algebra & Logic Gates/1. Basic Definition.md",
     "Screenshot 2024-10-15 at 10.54.25 PM.png",
     "Screenshot 2024-10-15 at 9.34.43 PM.png",
-    "Screenshot 2024-10-15 at 9.18.32 PM.png",
     "Digital Logic, Morris Mano.pdf",
     "Boolean Algebra & Logic Gates",
     "Welcome.md"
