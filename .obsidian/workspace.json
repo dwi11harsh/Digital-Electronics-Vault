@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simplification of Boolean Functions/The Map Method.md",
+                "file": "Simplification of Boolean Functions/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simplification of Boolean Functions/The Map Method.md",
+                "file": "Simplification of Boolean Functions/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simplification of Boolean Functions/The Map Method.md",
+                "file": "Simplification of Boolean Functions/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simplification of Boolean Functions/The Map Method.md"
+                "file": "Simplification of Boolean Functions/Untitled.md"
               }
             }
           },
@@ -161,7 +161,8 @@
   },
   "active": "c2b1066f190f3b2f",
   "lastOpenFiles": [
-    "Simplification of Boolean Functions/The Map Method.md",
+    "Simplification of Boolean Functions/1. The Map Method.md",
+    "Simplification of Boolean Functions/Untitled.md",
     "Boolean Algebra & Logic Gates/7. Digital Logic Gates.md",
     "Boolean Algebra & Logic Gates/1. Basic Definition.md",
     "1. Basic Definition.pdf",
