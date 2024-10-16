@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simplification of Boolean Functions/Untitled.md",
+                "file": "Simplification of Boolean Functions/2. Two- & Three-variable Maps.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simplification of Boolean Functions/Untitled.md",
+                "file": "Simplification of Boolean Functions/2. Two- & Three-variable Maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simplification of Boolean Functions/Untitled.md",
+                "file": "Simplification of Boolean Functions/2. Two- & Three-variable Maps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simplification of Boolean Functions/Untitled.md"
+                "file": "Simplification of Boolean Functions/2. Two- & Three-variable Maps.md"
               }
             }
           },
@@ -161,8 +161,10 @@
   },
   "active": "c2b1066f190f3b2f",
   "lastOpenFiles": [
+    "Screenshot 2024-10-16 at 3.02.25 PM.png",
+    "Screenshot 2024-10-16 at 3.01.47 PM.png",
     "Simplification of Boolean Functions/1. The Map Method.md",
-    "Simplification of Boolean Functions/Untitled.md",
+    "Simplification of Boolean Functions/2. Two- & Three-variable Maps.md",
     "Boolean Algebra & Logic Gates/7. Digital Logic Gates.md",
     "Boolean Algebra & Logic Gates/1. Basic Definition.md",
     "1. Basic Definition.pdf",
@@ -179,7 +181,6 @@
     "6. Canonical and Standard Forms.md",
     "Screenshot 2024-10-15 at 11.31.07 PM.png",
     "Screenshot 2024-10-15 at 11.27.47 PM.png",
-    "Screenshot 2024-10-15 at 11.27.27 PM.png",
     "Boolean Algebra & Logic Gates/4. Basic Theorems an Properties of Boolean Algebra.md",
     "Boolean Algebra & Logic Gates/3. Two-Valued Boolean Algebra.md",
     "Boolean Algebra & Logic Gates/2. Axiomatic Definition of Boolean Algebra.md",
