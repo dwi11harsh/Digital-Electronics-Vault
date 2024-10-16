@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simplification of Boolean Functions/6. Don't-care Condition.md",
+                "file": "Simplification of Boolean Functions/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simplification of Boolean Functions/6. Don't-care Condition.md",
+                "file": "Simplification of Boolean Functions/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simplification of Boolean Functions/6. Don't-care Condition.md",
+                "file": "Simplification of Boolean Functions/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simplification of Boolean Functions/6. Don't-care Condition.md"
+                "file": "Simplification of Boolean Functions/Untitled.md"
               }
             }
           },
@@ -174,8 +174,9 @@
   },
   "active": "c5658089b07bc41f",
   "lastOpenFiles": [
-    "Boolean Algebra & Logic Gates/8. Digital Logic Gates.md",
     "Simplification of Boolean Functions/6. Don't-care Condition.md",
+    "Simplification of Boolean Functions/Untitled.md",
+    "Boolean Algebra & Logic Gates/8. Digital Logic Gates.md",
     "6. Don't-care Condition.md",
     "Boolean Algebra & Logic Gates/7. Other Logic Operations.md",
     "Boolean Algebra & Logic Gates/6. Canonical and Standard Forms.md",
