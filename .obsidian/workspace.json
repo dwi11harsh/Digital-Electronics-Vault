@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simplification of Boolean Functions/6. The Tabulation Method.md",
+                "file": "Simplification of Boolean Functions/7. Determination of Prime-implicants.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simplification of Boolean Functions/6. The Tabulation Method.md",
+                "file": "Simplification of Boolean Functions/7. Determination of Prime-implicants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simplification of Boolean Functions/6. The Tabulation Method.md",
+                "file": "Simplification of Boolean Functions/7. Determination of Prime-implicants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simplification of Boolean Functions/6. The Tabulation Method.md"
+                "file": "Simplification of Boolean Functions/7. Determination of Prime-implicants.md"
               }
             }
           },
@@ -161,8 +161,9 @@
   },
   "active": "c5658089b07bc41f",
   "lastOpenFiles": [
-    "Simplification of Boolean Functions/6. Don't-care Condition.md",
     "Simplification of Boolean Functions/6. The Tabulation Method.md",
+    "Simplification of Boolean Functions/7. Determination of Prime-implicants.md",
+    "Simplification of Boolean Functions/6. Don't-care Condition.md",
     "Boolean Algebra & Logic Gates/8. Digital Logic Gates.md",
     "6. Don't-care Condition.md",
     "Boolean Algebra & Logic Gates/7. Other Logic Operations.md",
