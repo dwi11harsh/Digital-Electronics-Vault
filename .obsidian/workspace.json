@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e6909b43c003f765",
+        "id": "cc093063bb0199e5",
         "type": "tabs",
         "children": [
           {
-            "id": "f38c611eb4be2fd9",
+            "id": "e3fb8d5c8a1d70af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simplification of Boolean Functions/8. Various Implicants in K-map.md",
+                "file": "4. Combinational Logic/1. Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5,
-    "collapsed": true
+    "width": 230.5
   },
   "right": {
     "id": "c2ed8b3fce56f4d1",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Simplification of Boolean Functions/8. Various Implicants in K-map.md",
+                "file": "4. Combinational Logic/1. Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Simplification of Boolean Functions/8. Various Implicants in K-map.md",
+                "file": "4. Combinational Logic/1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simplification of Boolean Functions/8. Various Implicants in K-map.md"
+                "file": "4. Combinational Logic/1. Introduction.md"
               }
             }
           },
@@ -159,41 +158,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f38c611eb4be2fd9",
+  "active": "e3fb8d5c8a1d70af",
   "lastOpenFiles": [
-    "Screenshot 2024-10-16 at 6.45.20 PM.png",
-    "Screenshot 2024-10-16 at 6.44.03 PM.png",
-    "Screenshot 2024-10-16 at 6.43.14 PM.png",
-    "Simplification of Boolean Functions/7. Determination of Prime-implicants.md",
-    "Simplification of Boolean Functions/8. Various Implicants in K-map.md",
-    "Screenshot 2024-10-16 at 6.39.33 PM.png",
-    "Simplification of Boolean Functions/6. The Tabulation Method.md",
-    "Simplification of Boolean Functions/6. Don't-care Condition.md",
-    "Boolean Algebra & Logic Gates/8. Digital Logic Gates.md",
+    "public/Screenshot 2024-10-15 at 9.12.49 PM.png",
+    "4. Combinational Logic/1. Introduction.md",
+    "4. Combinational Logic",
+    "public/Screenshot 2024-10-15 at 8.54.35 PM.png",
+    "3. Simplification of Boolean Functions/8. Various Implicants in K-map.md",
+    "public",
+    "public/Screenshot 2024-10-16 at 6.45.20 PM.png",
+    "public/Screenshot 2024-10-16 at 6.44.03 PM.png",
+    "public/Screenshot 2024-10-16 at 6.43.14 PM.png",
+    "3. Simplification of Boolean Functions/7. Determination of Prime-implicants.md",
+    "public/Screenshot 2024-10-16 at 6.39.33 PM.png",
+    "3. Simplification of Boolean Functions/6. The Tabulation Method.md",
+    "3. Simplification of Boolean Functions/6. Don't-care Condition.md",
+    "2. Boolean Algebra & Logic Gates/8. Digital Logic Gates.md",
     "6. Don't-care Condition.md",
-    "Boolean Algebra & Logic Gates/7. Other Logic Operations.md",
-    "Boolean Algebra & Logic Gates/6. Canonical and Standard Forms.md",
-    "Simplification of Boolean Functions/5. NAND & NOR Implementation.md",
-    "Screenshot 2024-10-16 at 4.04.58 PM.png",
-    "Screenshot 2024-10-16 at 3.54.23 PM.png",
-    "Screenshot 2024-10-16 at 3.52.13 PM.png",
-    "Simplification of Boolean Functions/4. Product of Sums Simplification.md",
-    "Screenshot 2024-10-16 at 3.41.48 PM.png",
-    "Screenshot 2024-10-16 at 3.41.20 PM.png",
-    "Simplification of Boolean Functions/3. Four-variable Map.md",
-    "Screenshot 2024-10-16 at 3.24.39 PM.png",
-    "Simplification of Boolean Functions/2. Two- & Three-variable Maps.md",
-    "Screenshot 2024-10-16 at 3.05.10 PM.png",
-    "Simplification of Boolean Functions/1. The Map Method.md",
-    "Boolean Algebra & Logic Gates/1. Basic Definition.md",
+    "2. Boolean Algebra & Logic Gates/7. Other Logic Operations.md",
+    "2. Boolean Algebra & Logic Gates/6. Canonical and Standard Forms.md",
+    "3. Simplification of Boolean Functions/5. NAND & NOR Implementation.md",
+    "public/Screenshot 2024-10-16 at 4.04.58 PM.png",
+    "public/Screenshot 2024-10-16 at 3.54.23 PM.png",
+    "public/Screenshot 2024-10-16 at 3.52.13 PM.png",
+    "3. Simplification of Boolean Functions/4. Product of Sums Simplification.md",
+    "public/Screenshot 2024-10-16 at 3.41.48 PM.png",
+    "public/Screenshot 2024-10-16 at 3.41.20 PM.png",
+    "3. Simplification of Boolean Functions/3. Four-variable Map.md",
+    "3. Simplification of Boolean Functions/2. Two- & Three-variable Maps.md",
+    "3. Simplification of Boolean Functions/1. The Map Method.md",
+    "2. Boolean Algebra & Logic Gates/1. Basic Definition.md",
     "1. Basic Definition.pdf",
-    "Simplification of Boolean Functions",
-    "Boolean Algebra & Logic Gates/5. Boolean Functions.md",
-    "Boolean Algebra & Logic Gates/4. Basic Theorems an Properties of Boolean Algebra.md",
-    "Boolean Algebra & Logic Gates/3. Two-Valued Boolean Algebra.md",
-    "Boolean Algebra & Logic Gates/2. Axiomatic Definition of Boolean Algebra.md",
+    "3. Simplification of Boolean Functions",
+    "2. Boolean Algebra & Logic Gates/5. Boolean Functions.md",
+    "2. Boolean Algebra & Logic Gates/4. Basic Theorems an Properties of Boolean Algebra.md",
+    "2. Boolean Algebra & Logic Gates/3. Two-Valued Boolean Algebra.md",
+    "2. Boolean Algebra & Logic Gates/2. Axiomatic Definition of Boolean Algebra.md",
     "Digital Logic, Morris Mano.pdf",
-    "Boolean Algebra & Logic Gates",
+    "2. Boolean Algebra & Logic Gates",
     "Welcome.md"
   ]
 }
