@@ -16,21 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "58ef459be9dcd11f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +168,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58ef459be9dcd11f",
+  "active": "e3fb8d5c8a1d70af",
   "lastOpenFiles": [
     "4. Combinational Logic/1. Introduction.md",
     "public/Screenshot 2024-10-15 at 9.12.49 PM.png",
