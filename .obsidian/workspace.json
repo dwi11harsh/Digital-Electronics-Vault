@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Combinational Logic/1. Introduction.md",
+                "file": "4. Combinational Logic/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "Untitled"
             }
           }
         ]
@@ -175,8 +175,9 @@
   },
   "active": "7c8158becc873f85",
   "lastOpenFiles": [
-    "Screenshot 2024-10-18 at 3.49.45 PM.png",
     "4. Combinational Logic/1. Introduction.md",
+    "4. Combinational Logic/Untitled.md",
+    "Screenshot 2024-10-18 at 3.49.45 PM.png",
     "public/Screenshot 2024-10-15 at 9.12.49 PM.png",
     "4. Combinational Logic",
     "public/Screenshot 2024-10-15 at 8.54.35 PM.png",
@@ -198,7 +199,6 @@
     "public/Screenshot 2024-10-16 at 3.54.23 PM.png",
     "public/Screenshot 2024-10-16 at 3.52.13 PM.png",
     "3. Simplification of Boolean Functions/4. Product of Sums Simplification.md",
-    "public/Screenshot 2024-10-16 at 3.41.48 PM.png",
     "3. Simplification of Boolean Functions/3. Four-variable Map.md",
     "3. Simplification of Boolean Functions/2. Two- & Three-variable Maps.md",
     "3. Simplification of Boolean Functions/1. The Map Method.md",
